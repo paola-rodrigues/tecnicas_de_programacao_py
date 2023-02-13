@@ -1,1 +1,1 @@
-# tecnicas_de_programacao_py
+#  Disciplina Técnicas de programação
